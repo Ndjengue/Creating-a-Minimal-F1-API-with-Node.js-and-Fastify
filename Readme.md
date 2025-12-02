@@ -22,7 +22,7 @@ ID, including CORS configuration for broader access.
 
 ## 🚀 Installation
 
-Ensure you have Node.js v18+ installed.
+Ensure you have Node.js 24.10.1+ installed.
 
 ``` bash
 npm install
